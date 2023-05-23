@@ -72,5 +72,7 @@ d5 = length(div5)
 p3 = d3/n
 p5 = d5/n
 (p3+p5)
-#7) estatistica vvv
+#7) estatistica 
+url <- "C:\Users\ryanz\OneDrive\Área de Trabalho\faculdade\ProbabilidadeeEstatistica\listas_provas\AB1.csv"
+sal <- read.csv("AB1.csv", header = TRUE, sep = ";", dec = ".")
 
